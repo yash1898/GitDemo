@@ -1,0 +1,11 @@
+package mavenproject.staging;
+
+import org.testng.annotations.Test;
+
+public class SeleniumTest {
+	@Test
+	private void selnium() {
+		// TODO Auto-generated method stub
+		System.out.println("Selenium");
+	}
+}
