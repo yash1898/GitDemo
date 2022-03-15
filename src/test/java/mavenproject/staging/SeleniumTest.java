@@ -7,5 +7,6 @@ public class SeleniumTest {
 	private void selnium() {
 		// TODO Auto-generated method stub
 		System.out.println("Selenium");
+		System.out.println("Selenium 2");
 	}
 }
