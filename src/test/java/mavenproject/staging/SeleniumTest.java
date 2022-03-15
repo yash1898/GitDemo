@@ -8,5 +8,6 @@ public class SeleniumTest {
 		// TODO Auto-generated method stub
 		System.out.println("Selenium");
 		System.out.println("Selenium 2");
+		System.out.println("Selenium 3");
 	}
 }
