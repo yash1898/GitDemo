@@ -36,8 +36,6 @@
 </dependency>
 
   </dependencies>
-<profiles><profile>
-<id>Regression</id>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -93,7 +91,4 @@
       </plugins>
     </pluginManagement>
   </build>
-
-</profile>
-</profiles>
 </project>
